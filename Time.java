@@ -49,6 +49,6 @@ public class Time
 		ob3=ob1.Add(ob2);
 		ob1.display();
 		ob2.display();
-		ob3.display();
+		//ob3.display();
 	}
 }
